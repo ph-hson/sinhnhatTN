@@ -1,0 +1,22 @@
+body {
+  /* background-color: antiquewhite; */
+  text-align: center;
+}
+h1 {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  padding-top: 0cm;
+}
+td {
+  color: #a9141e;
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+table {
+  margin: auto;
+  font-size: xx-large;
+  border-spacing: 100px;
+}
